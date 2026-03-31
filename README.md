@@ -1,7 +1,7 @@
-# <p align="center">━━━━━━━ ⚡ SYSTEM ONLINE ⚡ ━━━━━━━</p>
+# <p align="center">━━━━━━━ ⚡ SYSTEM IDENTITY: ONLINE ⚡ ━━━━━━━</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=250&section=header&text=ARMAGHAN%20ALI&fontSize=70&fontAlignY=35&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20|%20AI%20ENGINEER&descSize=22&descAlignY=60&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=ARMAGHAN%20ALI&fontSize=80&fontAlignY=38&animation=twinkling&desc=FULL-STACK%20ENGINEER%20|%20AI%20EXPLORER&descSize=24&descAlignY=62&fontColor=00f2ff" />
 </p>
 
 <p align="center">
@@ -13,7 +13,7 @@
 ### 🛡️ CLASS: FULL-STACK ENGINEER
 * **Current Quest:** Building scalable MERN & Django architectures.
 * **Main Weapon:** JavaScript / Python / PHP.
-* **Location:** Wah Cantt, Pakistan.
+* **Base of Operations:** Wah Cantt, Pakistan.
 
 ---
 
@@ -28,12 +28,12 @@
 
 ### 📊 PLAYER ANALYTICS (HUD)
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dimension-2&show_icons=true&theme=tokyonight&hide_border=false&title_color=00f2ff&icon_color=00f2ff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimension-2&layout=compact&theme=tokyonight&hide_border=false&title_color=00f2ff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dimension-2&show_icons=true&theme=tokyonight&hide_border=false&title_color=00f2ff&icon_color=00f2ff&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimension-2&layout=compact&theme=tokyonight&hide_border=false&title_color=00f2ff&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimension-2&theme=tokyonight&fire=00f2ff&sideNums=00f2ff&sideLabels=ffffff&dates=ffffff" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dimension-2&theme=tokyonight&fire=00f2ff&sideNums=00f2ff&sideLabels=ffffff&dates=ffffff&background=0D1117" />
 </p>
 
 ---
