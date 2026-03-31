@@ -1,28 +1,39 @@
-# Hi, I'm Armaghan Ali 👋
+# <p align="center">Hi, I'm Armaghan Ali 👋</p>
 
-### 🚀 Full-Stack Web Developer | Computer Science Student
-Passionate about building scalable web applications and AI-integrated solutions.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" />
+</p>
 
----
-
-### 🛠️ Tech Stack & Tools
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+### 👨‍💻 About Me
+- 🎓 **Computer Science Student** at University of Wah.
+- 🏢 **AI Web Developer** at ARCH Technologies.
+- 🚀 Passionate about **MERN Stack**, **Django**, and **IoT Systems**.
 
 ---
 
-### 📊 GitHub Stats
-![Armaghan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimension-2&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimension-2&layout=compact&theme=tokyonight)
+### 🛠️ Tech Stack Meter
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,django,php,laravel,dotnet,mysql,html,css,js,bootstrap,git,github,vscode,vercel" />
+</p>
 
 ---
 
-### 📫 Connect with me:
-- 📧 Email: armaghanali304@gmail.com
-- 🌐 [Portfolio/Live Demo](https://armaghan-industrial-store.vercel.app)
+### 📈 GitHub Activities & Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dimension-2&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimension-2&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dimension-2&theme=tokyonight" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+<p align="left">
+<a href="mailto:armaghanali304@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://armaghan-industrial-store.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
+
+<img src="https://raw.githubusercontent.com/Dimension-2/Dimension-2/output/github-contribution-grid-snake.svg" alt="snake" />
