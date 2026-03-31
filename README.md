@@ -1,8 +1,8 @@
 # <p align="center">Hi, I'm Armaghan Ali 👋</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=35" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=A R M A G H A N%20%20A L I&fontSize=50&animation=fadeIn&fontAlignY=35&desc=F U L L - S T A C K%20D E V E L O P E R&descSize=20" />
+</p>>
 
 ### 👨‍💻 About Me
 - 🎓 **Computer Science Student** at University of Wah.
@@ -36,4 +36,3 @@
 <a href="https://armaghan-industrial-store.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Dimension-2/Dimension-2/output/github-contribution-grid-snake.svg" alt="snake" />
