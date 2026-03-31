@@ -18,9 +18,8 @@
 ---
 
 ### 🕹️ LIVE TERMINAL: POWER STACK
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=LOADED:%20MERN • Django • PHP • Laravel • .NET • AI_v2.0&fontSize=35&fontAlignY=35&animation=terminal&fontColor=FDD835" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FDD835&center=true&vCenter=true&width=800&lines=LOADING+MERN+STACK...;LOADING+DJANGO+%26+PYTHON...;SYSTEM+READY:+FULL-STACK+ENGINEER" alt="Typing SVG" />
 </p>
 
 ---
@@ -36,8 +35,8 @@
 
 ### 📊 PLAYER ANALYTICS (YELLOW HUD)
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dimension-2&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=FDD835&title_color=FDD835&text_color=ffffff&icon_color=FDD835&hide_border=false" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimension-2&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=FDD835&title_color=FDD835&text_color=ffffff&icon_color=FDD835&hide_border=false" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dimension-2&show_icons=true&theme=tokyonight&bg_color=0D1117&border_color=FDD835&title_color=FDD835&text_color=ffffff&icon_color=FDD835" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimension-2&layout=compact&theme=tokyonight&bg_color=0D1117&border_color=FDD835&title_color=FDD835&text_color=ffffff&icon_color=FDD835" />
 </p>
 
 <p align="center">
@@ -48,7 +47,7 @@
 
 ### 🐍 CONTRIBUTION SNAKE
 <p align="center">
-  <img src="https://github.com/Dimension-2/Dimension-2/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Dimension-2/Dimension-2/blob/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
