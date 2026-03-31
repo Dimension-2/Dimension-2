@@ -1,7 +1,7 @@
 # <p align="center">━━━━━━━ ⚡ SYSTEM IDENTITY: ONLINE ⚡ ━━━━━━━</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD835&height=280&section=header&text=ARMAGHAN%20ALI&fontSize=80&fontAlignY=35&animation=fadeIn&desc=FULL-STACK%20DEVELOPER%20|%20AI%20ENGINEER&descSize=22&descAlignY=60&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDD835&height=280&section=header&text=ARMAGHAN%20ALI&fontSize=80&fontAlignY=35&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20|%20AI%20EXPLORER&descSize=22&descAlignY=60&fontColor=000000" />
 </p>
 
 <p align="center">
@@ -10,14 +10,22 @@
 
 ---
 
-### 🛡️ PLAYER PROFILE
-- 🕹️ **Current Quest:** Building scalable MERN & Django architectures
-- ⚔️ **Main Weapon:** JavaScript / Python / PHP
-- 📍 **Base of Operations:** Wah Cantt, Pakistan
+### 🛡️ CLASS: FULL-STACK ENGINEER
+* 💡 **Current Quest:** Building scalable MERN & Django architectures
+* ⚔️ **Main Weapon:** JavaScript / Python / PHP
+* 📍 **Base of Operations:** Wah Cantt, Pakistan
 
 ---
 
-### 🕹️ POWER STACK (SKILLS)
+### 🕹️ LIVE TERMINAL: POWER STACK
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=LOADED:%20MERN • Django • PHP • Laravel • .NET • AI_v2.0&fontSize=35&fontAlignY=35&animation=terminal&fontColor=FDD835" />
+</p>
+
+---
+
+### 🕹️ THE ARMORY (SKILLS GRID)
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,python,django,php,laravel,dotnet,mysql,js,html,css,bootstrap,tailwind,linux,git,github,vscode,vercel,postman&theme=dark" />
